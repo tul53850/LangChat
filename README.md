@@ -1,4 +1,3 @@
 # LangChat AI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+AI-assisted language tutor ! [View Prototype](https://tul53850.github.io/LangChat/)
