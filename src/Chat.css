@@ -1,0 +1,46 @@
+body{
+  margin: 0;
+}
+
+img {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+p {
+  border-radius: 10px;
+  border: 3px;
+  border-style: groove;
+  width: fit-content;
+  padding: 5px;
+}
+
+table, th, td {
+  border: 1px dashed black;
+}
+
+.window{
+  width: 100%;
+}
+.controls{
+  margin-top: 0;
+}
+
+#chat{
+  overflow-y: scroll;
+  max-height: 600px;
+  min-height: 600px;
+  /*padding: 5px;*/
+  /*margin: 5px;*/
+
+  width: 420px;
+  /*display: 'flex';
+  flex-direction: 'column-reverse';*/
+}
+
+#write{
+  width: 420px;
+}
+
+
