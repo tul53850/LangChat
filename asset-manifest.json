@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LangChat/static/css/main.e40ebe79.css",
+    "main.js": "/LangChat/static/js/main.43e6e36c.js",
+    "index.html": "/LangChat/index.html",
+    "main.e40ebe79.css.map": "/LangChat/static/css/main.e40ebe79.css.map",
+    "main.43e6e36c.js.map": "/LangChat/static/js/main.43e6e36c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40ebe79.css",
+    "static/js/main.43e6e36c.js"
+  ]
+}
